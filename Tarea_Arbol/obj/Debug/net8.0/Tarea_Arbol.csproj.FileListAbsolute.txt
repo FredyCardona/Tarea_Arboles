@@ -1,0 +1,14 @@
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\obj\Debug\net8.0\Tarea_Arbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\obj\Debug\net8.0\Tarea_Arbol.AssemblyInfoInputs.cache
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\obj\Debug\net8.0\Tarea_Arbol.AssemblyInfo.cs
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\obj\Debug\net8.0\Tarea_Arbol.csproj.CoreCompileInputs.cache
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\bin\Debug\net8.0\Tarea_Arbol.exe
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\bin\Debug\net8.0\Tarea_Arbol.deps.json
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\bin\Debug\net8.0\Tarea_Arbol.runtimeconfig.json
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\bin\Debug\net8.0\Tarea_Arbol.dll
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\bin\Debug\net8.0\Tarea_Arbol.pdb
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\obj\Debug\net8.0\Tarea_Arbol.dll
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\obj\Debug\net8.0\refint\Tarea_Arbol.dll
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\obj\Debug\net8.0\Tarea_Arbol.pdb
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\obj\Debug\net8.0\Tarea_Arbol.genruntimeconfig.cache
+C:\Users\sommo\Desktop\Tarea Árbol\Tarea_Arbol\Tarea_Arbol\obj\Debug\net8.0\ref\Tarea_Arbol.dll
